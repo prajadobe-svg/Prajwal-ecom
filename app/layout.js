@@ -30,6 +30,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${display.variable} ${body.variable} ${mono.variable}`}>
+    <Script id="adobe-data-layer-init" strategy="beforeInteractive">
+          {"window.adobeDataLayer = window.adobeDataLayer || [];"}
+        </Script>
+        <script src="https://assets.adobedtm.com/6a203c8a0ff8/aeb100c194c7/launch-cce179acef2d-development.min.js" async></script>
+        
       <head>
         {/*
           Runs before React hydrates and before any other script on the
