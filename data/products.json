@@ -1,0 +1,198 @@
+[
+  {
+    "id": "hd-01",
+    "sku": "NA-HD-01",
+    "name": "Fieldset Headphones",
+    "category": "Headphones",
+    "price": 249,
+    "tagline": "Open-back listening for small rooms.",
+    "description": "Fieldset pairs a 40mm bio-cellulose driver with a hand-finished walnut cup. Built for evening listening, not commuting — open-back, low clamp force, replaceable earpads.",
+    "images": [
+      "https://picsum.photos/seed/na-hd-01-a/900/900",
+      "https://picsum.photos/seed/na-hd-01-b/900/900",
+      "https://picsum.photos/seed/na-hd-01-c/900/900"
+    ],
+    "specs": [
+      { "label": "Driver", "value": "40mm bio-cellulose" },
+      { "label": "Impedance", "value": "38 ohm" },
+      { "label": "Frequency range", "value": "14Hz – 42kHz" },
+      { "label": "Weight", "value": "268g" },
+      { "label": "Cable", "value": "2m, detachable, OFC copper" }
+    ],
+    "stock": 14
+  },
+  {
+    "id": "hd-02",
+    "sku": "NA-HD-02",
+    "name": "Transit Headphones",
+    "category": "Headphones",
+    "price": 189,
+    "tagline": "Closed-back, sealed for the outside world.",
+    "description": "Transit is Fieldset's closed-back sibling: sealed earcups, a folding hinge, and a firmer clamp for movement. Passive isolation only — no batteries, no charging, no waiting.",
+    "images": [
+      "https://picsum.photos/seed/na-hd-02-a/900/900",
+      "https://picsum.photos/seed/na-hd-02-b/900/900",
+      "https://picsum.photos/seed/na-hd-02-c/900/900"
+    ],
+    "specs": [
+      { "label": "Driver", "value": "40mm PET dome" },
+      { "label": "Impedance", "value": "32 ohm" },
+      { "label": "Frequency range", "value": "16Hz – 40kHz" },
+      { "label": "Weight", "value": "241g" },
+      { "label": "Cable", "value": "1.4m, detachable" }
+    ],
+    "stock": 22
+  },
+  {
+    "id": "sp-01",
+    "sku": "NA-SP-01",
+    "name": "Basin Bookshelf Speakers",
+    "category": "Speakers",
+    "price": 599,
+    "tagline": "A stand-mount pair for a real listening room.",
+    "description": "Basin is a two-way stand-mount speaker with a solid ash cabinet and a bass-reflex port tuned for near-wall placement. Sold as a pair; amplification not included.",
+    "images": [
+      "https://picsum.photos/seed/na-sp-01-a/900/900",
+      "https://picsum.photos/seed/na-sp-01-b/900/900",
+      "https://picsum.photos/seed/na-sp-01-c/900/900"
+    ],
+    "specs": [
+      { "label": "Configuration", "value": "2-way, bass-reflex" },
+      { "label": "Woofer", "value": "5.5in paper cone" },
+      { "label": "Tweeter", "value": "1in silk dome" },
+      { "label": "Sensitivity", "value": "86dB / 1W / 1m" },
+      { "label": "Recommended power", "value": "20–120W" }
+    ],
+    "stock": 8
+  },
+  {
+    "id": "sp-02",
+    "sku": "NA-SP-02",
+    "name": "Basin Active Monitor",
+    "category": "Speakers",
+    "price": 349,
+    "tagline": "Powered near-field, sold individually.",
+    "description": "The active version of Basin — a built-in amplifier, analog and optical inputs, and a rear-panel trim switch for placement near a wall. Sold individually; pair two for stereo.",
+    "images": [
+      "https://picsum.photos/seed/na-sp-02-a/900/900",
+      "https://picsum.photos/seed/na-sp-02-b/900/900",
+      "https://picsum.photos/seed/na-sp-02-c/900/900"
+    ],
+    "specs": [
+      { "label": "Amplifier", "value": "Class D, 60W" },
+      { "label": "Inputs", "value": "RCA, 3.5mm, optical" },
+      { "label": "Woofer", "value": "5in fiber cone" },
+      { "label": "Frequency range", "value": "48Hz – 22kHz" },
+      { "label": "Weight", "value": "3.4kg each" }
+    ],
+    "stock": 17
+  },
+  {
+    "id": "tt-01",
+    "sku": "NA-TT-01",
+    "name": "Overland Turntable",
+    "category": "Turntables",
+    "price": 449,
+    "tagline": "Belt-drive, manual, no software involved.",
+    "description": "Overland is a belt-drive manual turntable with a gimbal tonearm and a pre-fitted moving-magnet cartridge. Two speeds, a felt mat, and nothing that needs a firmware update.",
+    "images": [
+      "https://picsum.photos/seed/na-tt-01-a/900/900",
+      "https://picsum.photos/seed/na-tt-01-b/900/900",
+      "https://picsum.photos/seed/na-tt-01-c/900/900"
+    ],
+    "specs": [
+      { "label": "Drive", "value": "Belt, manual" },
+      { "label": "Speeds", "value": "33⅓ / 45 rpm" },
+      { "label": "Tonearm", "value": "Gimbal, static-balanced" },
+      { "label": "Cartridge", "value": "Moving magnet, pre-fitted" },
+      { "label": "Plinth", "value": "MDF, walnut veneer" }
+    ],
+    "stock": 6
+  },
+  {
+    "id": "tt-02",
+    "sku": "NA-TT-02",
+    "name": "Overland SE",
+    "category": "Turntables",
+    "price": 649,
+    "tagline": "The same deck, a heavier platter and phono stage.",
+    "description": "Overland SE adds an acrylic platter, a built-in phono preamp for connecting straight to powered speakers, and an upgraded counterweight for finer tracking-force adjustment.",
+    "images": [
+      "https://picsum.photos/seed/na-tt-02-a/900/900",
+      "https://picsum.photos/seed/na-tt-02-b/900/900",
+      "https://picsum.photos/seed/na-tt-02-c/900/900"
+    ],
+    "specs": [
+      { "label": "Drive", "value": "Belt, manual" },
+      { "label": "Platter", "value": "Acrylic, 1.6kg" },
+      { "label": "Phono stage", "value": "Built-in, switchable" },
+      { "label": "Wow & flutter", "value": "0.15% WRMS" },
+      { "label": "Plinth", "value": "MDF, matte black" }
+    ],
+    "stock": 5
+  },
+  {
+    "id": "ac-01",
+    "sku": "NA-AC-01",
+    "name": "Waypoint Headphone Stand",
+    "category": "Accessories",
+    "price": 59,
+    "tagline": "Solid oak, weighted base.",
+    "description": "A turned-oak headphone stand with a weighted base and a felt-lined yoke so ear cups keep their shape between listening sessions.",
+    "images": [
+      "https://picsum.photos/seed/na-ac-01-a/900/900",
+      "https://picsum.photos/seed/na-ac-01-b/900/900",
+      "https://picsum.photos/seed/na-ac-01-c/900/900"
+    ],
+    "specs": [
+      { "label": "Material", "value": "Solid oak, oiled finish" },
+      { "label": "Base", "value": "Weighted steel plate" },
+      { "label": "Height", "value": "23cm" },
+      { "label": "Yoke lining", "value": "Felt" }
+    ],
+    "stock": 40
+  },
+  {
+    "id": "ac-02",
+    "sku": "NA-AC-02",
+    "name": "Overland Record Weight",
+    "category": "Accessories",
+    "price": 39,
+    "tagline": "Machined aluminum, 320g.",
+    "description": "A machined-aluminum record weight for the Overland turntables, damping micro-vibration at the spindle for a marginally quieter background.",
+    "images": [
+      "https://picsum.photos/seed/na-ac-02-a/900/900",
+      "https://picsum.photos/seed/na-ac-02-b/900/900",
+      "https://picsum.photos/seed/na-ac-02-c/900/900"
+    ],
+    "specs": [
+      { "label": "Material", "value": "Machined aluminum" },
+      { "label": "Weight", "value": "320g" },
+      { "label": "Finish", "value": "Bead-blasted, anodized" },
+      { "label": "Compatibility", "value": "Standard spindle" }
+    ],
+    "stock": 55
+  },
+  {
+    "id": "sp-03",
+    "sku": "NA-SP-03",
+    "name": "Basin Subwoofer",
+    "category": "Speakers",
+    "price": 429,
+    "tagline": "Down-firing, for the low octave.",
+    "description": "A down-firing 8in subwoofer with a variable crossover and phase switch, matched in cabinet finish to the Basin bookshelf pair.",
+    "images": [
+      "https://picsum.photos/seed/na-sp-03-a/900/900",
+      "https://picsum.photos/seed/na-sp-03-b/900/900",
+      "https://picsum.photos/seed/na-sp-03-c/900/900"
+    ],
+    "specs": [
+      { "label": "Driver", "value": "8in down-firing" },
+      { "label": "Amplifier", "value": "Class D, 100W" },
+      { "label": "Crossover", "value": "50–150Hz, variable" },
+      { "label": "Inputs", "value": "RCA stereo, LFE" },
+      { "label": "Weight", "value": "9.1kg" }
+    ],
+    "stock": 11
+  }
+]
